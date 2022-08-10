@@ -1,0 +1,5 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/likezhi/VE280/project2'
+g++ --std=c++17 -o mip mip.cpp -Wall -Werror
+make: Leaving directory '/home/likezhi/VE280/project2'
+ 

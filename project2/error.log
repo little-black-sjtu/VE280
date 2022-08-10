@@ -1,0 +1,7 @@
+Error: The specified input file does not exist.
+Error: The specified input file does not exist.
+Error: The specified transformation does not correspond to any accepted transformations.
+Error: The specified transformation does not correspond to any accepted transformations.
+Usage: mip [-i input file] [-o output file] -t transformation
+Usage: mip [-i input file] [-o output file] -t transformation
+Usage: mip [-i input file] [-o output file] -t transformation

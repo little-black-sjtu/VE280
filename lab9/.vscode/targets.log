@@ -1,0 +1,325 @@
+make.exe all --print-data-base --no-builtin-variables --no-builtin-rules --question
+# GNU Make 4.3
+# Built for x86_64-pc-msys
+# Copyright (C) 1988-2020 Free Software Foundation, Inc.
+# License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+# This is free software: you are free to change and redistribute it.
+# There is NO WARRANTY, to the extent permitted by law.
+ 
+
+# Make data base, printed on Thu Jul 14 16:11:44 2022
+
+# Variables
+
+ 
+# environment
+FPS_BROWSER_APP_PROFILE_STRING = Internet Explorer
+# environment
+SYSTEMDRIVE = C:
+# environment
+LC_ALL = C
+# environment
+USERPROFILE = C:\Users\86186
+# environment
+LOCALAPPDATA = C:\Users\86186\AppData\Local
+# environment
+VSCODE_CWD = C:\Users\86186\AppData\Local\Programs\Microsoft VS Code
+# environment
+SYSTEMROOT = C:\WINDOWS
+# environment
+PROCESSOR_LEVEL = 6
+# environment
+PSMODULEPATH = C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+# default
+MAKE_COMMAND := make
+# automatic
+@D = $(patsubst %/,%,$(dir $@))
+# environment
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_18616_KJMJIFQYABBYGJAE
+# environment
+FPS_BROWSER_USER_PROFILE_STRING = Default
+# environment
+VSCODE_HANDLES_UNCAUGHT_ERRORS = true
+# default
+.VARIABLES := 
+# automatic
+%D = $(patsubst %/,%,$(dir $%))
+# automatic
+^D = $(patsubst %/,%,$(dir $^))
+# automatic
+%F = $(notdir $%)
+# environment
+VSCODE_CODE_CACHE_PATH = C:\Users\86186\AppData\Roaming\Code\CachedData\92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9
+# environment
+LANG = C
+# default
+.LOADED := 
+# environment
+TMP = /c/Users/86186/AppData/Local/Temp
+# default
+.INCLUDE_DIRS = /usr/include /usr/include
+# environment
+CONFIGSETROOT = C:\WINDOWS\ConfigSetRoot
+# makefile
+MAKEFLAGS = pqrR
+# environment
+ONEDRIVE = C:\Users\86186\OneDrive
+# makefile
+CURDIR := /c/Users/86186/Desktop/VE280/code/lab9
+# environment
+APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = 1
+# automatic
+*D = $(patsubst %/,%,$(dir $*))
+# environment
+PROGRAMFILES = C:\Program Files
+# environment
+MFLAGS = -pqrR
+# default
+.SHELLFLAGS := -c
+# environment
+!C: = c:\Users\86186\Desktop\VE280\code\lab9
+# environment
+COMMONPROGRAMW6432 = C:\Program Files\Common Files
+# automatic
++D = $(patsubst %/,%,$(dir $+))
+# makefile (from 'makefile', line 1)
+MAKEFILE_LIST := makefile
+# automatic
+@F = $(notdir $@)
+# environment
+VSCODE_PID = 18616
+# automatic
+?D = $(patsubst %/,%,$(dir $?))
+# automatic
+*F = $(notdir $*)
+# automatic
+<D = $(patsubst %/,%,$(dir $<))
+# environment
+VSCODE_NLS_CONFIG = {"locale":"zh-cn","availableLanguages":{"*":"zh-cn"},"_languagePackId":"c9280508cf500dcd9c4c87fe2a1b08e9.zh-cn","_translationsConfigFile":"C:\\Users\\86186\\AppData\\Roaming\\Code\\clp\\c9280508cf500dcd9c4c87fe2a1b08e9.zh-cn\\tcf.json","_cacheRoot":"C:\\Users\\86186\\AppData\\Roaming\\Code\\clp\\c9280508cf500dcd9c4c87fe2a1b08e9.zh-cn","_resolvedLanguagePackCoreLocation":"C:\\Users\\86186\\AppData\\Roaming\\Code\\clp\\c9280508cf500dcd9c4c87fe2a1b08e9.zh-cn\\92d25e35d9bf1a6b16f7d0758f25d48ace11e5b9","_corruptedFile":"C:\\Users\\86186\\AppData\\Roaming\\Code\\clp\\c9280508cf500dcd9c4c87fe2a1b08e9.zh-cn\\corrupted.info","_languagePackSupport":true}
+# default
+MAKE_HOST := x86_64-pc-msys
+# environment
+PROGRAMDATA = C:\ProgramData
+# default
+SHELL := /bin/sh
+# environment
+CLASSPATH = C:\LINGO12\Lingo12.jar
+# environment
+HOMEPATH = \Users\86186
+# default
+MAKECMDGOALS := all
+# environment
+DRIVERDATA = C:\Windows\System32\Drivers\DriverData
+# environment
+COMSPEC = C:\WINDOWS\system32\cmd.exe
+# environment
+WINDIR = C:\WINDOWS
+# environment
+MAKELEVEL := 0
+# default
+MAKE = $(MAKE_COMMAND)
+# environment
+PATH = /c/Program Files (x86)/VMware/VMware Workstation/bin:/c/Program Files/anaconda:/c/Program Files/anaconda/Library/mingw-w64/bin:/c/Program Files/anaconda/Library/usr/bin:/c/Program Files/anaconda/Library/bin:/c/Program Files/anaconda/Scripts:/c/Program Files/COPT/bin:/c/Program Files (x86)/Common Files/Oracle/Java/javapath:/c/Windows/system32:/c/Windows:/c/Windows/System32/Wbem:/c/Windows/System32/WindowsPowerShell/v1.0:/c/Windows/System32/OpenSSH:/c/Program Files/NVIDIA Corporation/NVIDIA NvDLISR:/c/Program Files (x86)/MATLAB/bin:/c/Program Files/MATLAB/bin:/c/Program Files (x86)/Windows Kits/8.1/Windows Performance Toolkit:/c/WINDOWS/system32:/c/WINDOWS:/c/WINDOWS/System32/Wbem:/c/WINDOWS/System32/WindowsPowerShell/v1.0:/c/WINDOWS/System32/OpenSSH:/c/LaTeX/2021/bin/win32:/c/LINGO12:/c/Program Files/Wolfram Research/WolframScript:/c/Program Files/Pandoc:/c/Program Files (x86)/dotnet:/c/Users/86186/AppData/Local/Microsoft/WindowsApps:/mingw64/bin:/mingw64/lib:/mingw64/include:/usr/bin:/usr/lib:/usr/include:/c/Users/86186/AppData/Local/Programs/MiKTeX/miktex/bin/x64:/c/Program Files/COPT/bin:/c/Program Files (x86)/Tencent/QQGameTempest/Hall.57734:/c/Users/86186/AppData/Local/Programs/Microsoft VS Code/bin
+# environment
+COMPUTERNAME = DESKTOP-U49D88J
+# default
+MAKEFILES := 
+# automatic
+^F = $(notdir $^)
+# environment
+NIEXTCCOMPILERSUPP = C:\Program Files (x86)\National Instruments\Shared\ExternalCompilerSupport\C\
+# environment
+PROMPT = $P$G
+# environment
+LOGONSERVER = \\DESKTOP-U49D88J
+# environment
+USERNAME = 86186
+# environment
+COMMONPROGRAMFILES = C:\Program Files\Common Files
+# automatic
+?F = $(notdir $?)
+# environment
+PROGRAMW6432 = C:\Program Files
+# environment
+PATHEXT = .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+# automatic
++F = $(notdir $+)
+# environment
+COPT_HOME = C:\Program Files\COPT
+# environment
+ORIGINAL_XDG_CURRENT_DESKTOP = undefined
+# environment
+USERDOMAIN = DESKTOP-U49D88J
+# 'override' directive
+GNUMAKEFLAGS := 
+# environment
+OS = Windows_NT
+# makefile
+.DEFAULT_GOAL := all
+# default
+MAKE_VERSION := 4.3
+# environment
+PROGRAMFILES(X86) = C:\Program Files (x86)
+# environment
+USERDOMAIN_ROAMINGPROFILE = DESKTOP-U49D88J
+# environment
+NUMBER_OF_PROCESSORS = 16
+# environment
+PUBLIC = C:\Users\Public
+# environment
+APPDATA = C:\Users\86186\AppData\Roaming
+# environment
+HOMEDRIVE = C:
+# environment
+PROCESSOR_ARCHITECTURE = AMD64
+# environment
+VSCODE_AMD_ENTRYPOINT = vs/workbench/api/node/extensionHostProcess
+# environment
+HOME = /home/86186
+# environment
+COMMONPROGRAMFILES(X86) = C:\Program Files (x86)\Common Files
+# environment
+ELECTRON_RUN_AS_NODE = 1
+# environment
+TEMP = /c/Users/86186/AppData/Local/Temp
+# environment
+VSCODE_IPC_HOOK = \\.\pipe\a36b1785385d9a05b1309c6b9b3392ca-1.69.0-main-sock
+# environment
+TERM = xterm-256color
+# default
+.RECIPEPREFIX := 
+# automatic
+<F = $(notdir $<)
+# default
+SUFFIXES := 
+# environment
+ALLUSERSPROFILE = C:\ProgramData
+# environment
+SESSIONNAME = Console
+# environment
+COPT_LICENSE_DIR = C:\Program Files\COPT
+# default
+.FEATURES := target-specific order-only second-expansion else-if shortest-stem undefine oneshell nocomment grouped-target extra-prereqs archives jobserver output-sync check-symlink load
+ 
+# environment
+PROCESSOR_REVISION = a502
+# environment
+LINGO_12_LICENSE_FILE = C:\LINGO12\lndlng12.lic
+# environment
+PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+# variable set hash-table stats:
+# Load=97/1024=9%, Rehash=0, Collisions=11/127=9%
+
+# Pattern-specific Variable Values
+
+# No pattern-specific variable values.
+
+# Directories
+
+# . (device 2890907139, inode 21392098230132171): 9 files, no impossibilities.
+
+# 9 files, no impossibilities in 1 directories.
+
+# Implicit Rules
+
+# No implicit rules.
+
+# Files
+
+clean:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'makefile', line 10):
+	rm -f *.o test.exe
+
+# Not a target:
+.DEFAULT:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+all: test
+#  Command line target.
+#  Implicit rule search has been done.
+#  File does not exist.
+#  File has been updated.
+#  Needs to be updated (-q is set).
+# variable set hash-table stats:
+# Load=0/32=0%, Rehash=0, Collisions=0/3=0%
+
+test: test.o
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has been updated.
+#  Needs to be updated (-q is set).
+# variable set hash-table stats:
+# Load=0/32=0%, Rehash=0, Collisions=0/3=0%
+#  recipe to execute (from 'makefile', line 4):
+	g++ -g -o test test.o
+
+test.o: test.cpp
+#  Implicit rule search has not been done.
+#  Implicit/static pattern stem: ''
+#  File does not exist.
+#  File has been updated.
+#  Needs to be updated (-q is set).
+# automatic
+# @ := test.o
+# automatic
+# * := 
+# automatic
+# < := test.cpp
+# automatic
+# + := test.cpp
+# automatic
+# % := 
+# automatic
+# ^ := test.cpp
+# automatic
+# ? := test.cpp
+# automatic
+# | := 
+# variable set hash-table stats:
+ 
+# Load=8/32=25%, Rehash=0, Collisions=1/11=9%
+#  recipe to execute (from 'makefile', line 7):
+	g++ -c -g -Wall -Werror -fsanitize=leak test.cpp
+
+# Not a target:
+makefile:
+#  Implicit rule search has been done.
+#  Last modified 2022-07-12 22:49:13.0022417
+#  File has been updated.
+#  Successfully updated.
+
+# Not a target:
+.SUFFIXES:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+test.cpp:
+#  Implicit rule search has been done.
+#  Last modified 2022-07-13 00:15:17.0945092
+#  File has been updated.
+#  Successfully updated.
+
+# files hash-table stats:
+# Load=8/1024=1%, Rehash=0, Collisions=0/25=0%
+# VPATH Search Paths
+
+# No 'vpath' search paths.
+
+# No general ('VPATH' variable) search path.
+
+# strcache buffers: 1 (0) / strings = 16 / storage = 132 B / avg = 8 B
+# current buf: size = 8162 B / used = 132 B / count = 16 / avg = 8 B
+
+# strcache performance: lookups = 29 / hit rate = 44%
+# hash-table stats:
+# Load=16/8192=0%, Rehash=0, Collisions=0/29=0%
+# Finished Make data base on Thu Jul 14 16:11:44 2022
+
+ 

@@ -1,0 +1,11 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/likezhi/VE280/project3'
+g++ -Wall -c blackjack.cpp
+g++ -Wall -c hand.cpp
+g++ -Wall -c card.cpp
+g++ -Wall -c player.cpp
+g++ -Wall -c rand.cpp
+g++ -Wall -c deck.cpp
+g++ -Wall -o blackjack blackjack.o hand.o card.o player.o rand.o deck.o
+make: Leaving directory '/home/likezhi/VE280/project3'
+ 

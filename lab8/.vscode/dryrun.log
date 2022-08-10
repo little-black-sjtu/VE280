@@ -1,0 +1,5 @@
+make.exe --dry-run --keep-going --print-directory
+make: Entering directory '/c/Users/86186/Desktop/VE280/code/lab8'
+make: Nothing to be done for 'all'.
+make: Leaving directory '/c/Users/86186/Desktop/VE280/code/lab8'
+ 

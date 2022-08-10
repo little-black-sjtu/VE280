@@ -1,0 +1,5 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/likezhi/VE280/lab6'
+g++ -o l6 pluginManager.cpp main.cpp -std=c++11 -Wall -Werror -ldl
+make: Leaving directory '/home/likezhi/VE280/lab6'
+ 
